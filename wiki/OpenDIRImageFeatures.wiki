@@ -10,7 +10,7 @@ Here is the input image:
 
 [http://farm6.static.flickr.com/5274/5913891843_dd17454e12.jpg]
 
-After calculated the projection histogram:
+Calculate the projection histogram:
 
 [http://farm6.static.flickr.com/5277/5914452922_8890caa6b4.jpg]
 
