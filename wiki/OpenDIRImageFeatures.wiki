@@ -1,0 +1,19 @@
+#labels Featured
+= Document Image Features =
+
+The following two features can be extracted quickly. They are all scalable and "fused" into a high-dimension vector for each image.
+
+
+==Projection Histogram Feature==
+
+Here is the input image:
+
+[http://farm6.static.flickr.com/5274/5913891843_dd17454e12.jpg]
+
+After calculated the projection histogram:
+
+[http://farm6.static.flickr.com/5277/5914452922_8890caa6b4.jpg]
+
+==Density Distribution Feature==
+
+[http://farm6.static.flickr.com/5318/5914192115_40725f2bc7.jpg]
